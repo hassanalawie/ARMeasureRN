@@ -8,6 +8,22 @@
       "expo-router"
     ],
     "name": "ARMeasure",
-    "slug": "ARMeasure"
+    "slug": "ARMeasure",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "4eeb8e7e-bdb7-4c9a-b0ec-93c87073a0e5"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/4eeb8e7e-bdb7-4c9a-b0ec-93c87073a0e5"
+    },
+    "android": {},
+    "ios": {}
   }
 }
